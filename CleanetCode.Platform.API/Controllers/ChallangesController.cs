@@ -4,10 +4,10 @@ namespace CleanetCode.Platform.API.Controllers
 {
     [Route("[controller]")]
     [ApiController]
-    public class ChalangeController : Controller
+    public class ChallangesController : Controller
     {
 
-        public ChalangeController()
+        public ChallangesController()
         {
 
         }
